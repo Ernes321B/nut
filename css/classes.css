@@ -1,0 +1,21 @@
+.btn {
+  background: #fb8f1d;
+  color: white;
+  border: none;
+  width: 132px;
+  height: 44px;
+  border-radius: 8px;
+  border: 3px solid #fb8f1d;
+  transition: 2s;
+}
+
+.btn:hover {
+  transition: 0.3s;
+  background: transparent;
+  color: #fb8f1d;
+}
+
+.container {
+    max-width: 1219px;
+    margin: 0 auto;
+}
